@@ -1,0 +1,56 @@
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.exe
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.deps.json
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.runtimeconfig.json
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.pdb
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.AssemblyReference.cache
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.FormGYM.resources
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.Properties.Resources.resources
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.GenerateResource.cache
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.AssemblyInfoInputs.cache
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.AssemblyInfo.cs
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.CoreCompileInputs.cache
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\refint\Proiect_POO_GYM.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.pdb
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.genruntimeconfig.cache
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\ref\Proiect_POO_GYM.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.FormTransylvania.resources
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Edy\Desktop\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.CopyComplete
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.exe
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.deps.json
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.runtimeconfig.json
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Proiect_POO_GYM.pdb
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.AssemblyReference.cache
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.FormGYM.resources
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.FormTransylvania.resources
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.Properties.Resources.resources
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.GenerateResource.cache
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.AssemblyInfoInputs.cache
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.AssemblyInfo.cs
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.CoreCompileInputs.cache
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.csproj.CopyComplete
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\refint\Proiect_POO_GYM.dll
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.pdb
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\Proiect_POO_GYM.genruntimeconfig.cache
+C:\Users\Edy\Desktop\UNITBV\Anul 2\Semestrul 2\POO DONE\Proiect Programare Orientata pe Obiecte\Proiect_POO_GYM\Proiect_POO_GYM\obj\Debug\net6.0-windows\ref\Proiect_POO_GYM.dll
